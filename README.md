@@ -23,6 +23,10 @@ A real-time object detection web application that uses your webcam to detect obj
 - COCO-SSD
 - WebRTC Camera API
 
+## 📸 Demo
+
+![Real-Time Object Detection Demo](screenshots/demo.png)
+
 ## 📸 How It Works
 
 1. The browser requests webcam access.
@@ -30,10 +34,3 @@ A real-time object detection web application that uses your webcam to detect obj
 3. The webcam video is continuously analyzed.
 4. Detected objects are displayed with bounding boxes.
 5. The application shows the object name and confidence score.
-
-## ▶️ Run Locally
-
-### 1. Clone the repository
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
